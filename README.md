@@ -1,2 +1,3 @@
-# caa2021_packages
-Draft session proposal for CAA2021, Cyprus.
+# Tools for the Revolution: developing packages for scientific programming in archaeology
+
+Session proposed for CAA2021, Cyprus.
